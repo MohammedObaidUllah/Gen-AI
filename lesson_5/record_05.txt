@@ -1,0 +1,18 @@
+Day: 19-11-2026
+
+Topics learned:
+Machine Learning fundamentals, supervised/unsupervised/
+reinforcement learning, classification, regression,
+overfitting, underfitting, Bag of Words, CountVectorizer,
+sparse matrices, Naive Bayes, model evaluation metrics.
+
+Practical project:
+Built a Spam Email Classifier using Python and Scikit-learn.
+
+Evaluation concepts:
+Accuracy, Precision, Recall, F1-score,
+Confusion Matrix, False Positives and False Negatives.
+
+What I need to revise:
+Naive Bayes intuition, evaluation metrics,
+and explaining the complete ML workflow.
