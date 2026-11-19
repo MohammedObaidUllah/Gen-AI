@@ -1,0 +1,24 @@
+Day: 18-11-2026
+
+Topics learned:
+LLM APIs, SDKs, API keys, environment variables,
+tokens, temperature, conversation history,
+chat sessions, response latency, sliding windows.
+
+What I understood:
+I learned how to connect a Python application
+to Gemini using its SDK. I built a command-line
+chatbot that accepts user prompts and generates
+responses. I also implemented manual conversation
+history with a six-message sliding window.
+
+Coding exercises completed:
+Completed Gemini API integration and chatbot
+conversation-history implementation.
+
+Mock interview score:
+9/10
+
+What I need to revise:
+Gemini message structure, API request handling,
+and communication skills.
