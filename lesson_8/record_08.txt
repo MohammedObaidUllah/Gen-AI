@@ -1,0 +1,45 @@
+Day 8 — Prompt Engineering
+
+Topics learned:
+
+Prompt engineering fundamentals
+
+Role, context, task and constraints
+
+Zero-shot, one-shot and few-shot prompting
+
+Output formatting and prompt templates
+
+Iterative prompt refinement
+
+Hallucinations, grounding and fallback handling
+
+Introduction to prompt evaluation
+
+What I understood:
+
+How to design effective prompts.
+
+When to use few-shot prompting.
+
+How to reduce hallucinations using grounding.
+
+Why prompt engineering alone cannot guarantee reliable outputs.
+
+What I need to improve:
+
+Connecting prompt engineering with Python implementation.
+
+Distinguishing grounding from output formatting.
+
+Using evaluation metrics to measure prompt performance.
+
+Providing complete and technically precise interview answers.
+
+Practical prompt design exercise: 7.5/10
+
+Final assessment score: 7.7/10
+
+Conceptual lesson status: Completed
+
+Coding implementation: Pending
