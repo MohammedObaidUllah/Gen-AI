@@ -1,45 +1,76 @@
-Day 8 — Prompt Engineering
+# Day 8 — Prompt Engineering
 
-Topics learned:
+**Date:** 26 November 2026
 
-Prompt engineering fundamentals
+**Status:** Learning and practical implementation completed.
 
-Role, context, task and constraints
+## Topics learned
 
-Zero-shot, one-shot and few-shot prompting
+- Prompt engineering fundamentals
+- Role, context, specificity, and constraints
+- Zero-shot, one-shot, and few-shot prompting
+- Prompt templates
+- Hallucination and grounding
+- Output validation and normalization
+- Higher-order functions
+- Dictionary iteration and tuple unpacking
+- List append() vs. extend()
+- API exception handling
+- HTTP 429 and rate limiting
+- Data annotation
+- Controlled experiments
+- LLM evaluation metrics
 
-Output formatting and prompt templates
+## What I understood
 
-Iterative prompt refinement
+- How to construct effective prompts.
+- How to pass functions as arguments.
+- How to normalize and validate LLM responses.
+- How to compare predictions against ground-truth labels.
+- How to handle API failures separately from incorrect predictions.
+- How to evaluate different prompting techniques fairly.
 
-Hallucinations, grounding and fallback handling
+## What I struggled with
 
-Introduction to prompt evaluation
+- Translating requirements into Python code.
+- Defining individual function responsibilities.
+- Dictionary iteration.
+- List append() vs. extend().
+- Handling division by zero.
+- Providing complete interview answers.
+- Explaining experimental limitations.
 
-What I understood:
+## Coding exercises completed
 
-How to design effective prompts.
+- Zero-shot prompt generator
+- Few-shot prompt generator
+- Gemini sentiment classifier
+- Response normalization and validation
+- API exception handling
+- Rate-limit throttling
+- Dataset evaluation function
+- Reusable results display function
 
-When to use few-shot prompting.
+## Practical project
 
-How to reduce hallucinations using grounding.
+AI Customer Review Classifier
 
-Why prompt engineering alone cannot guarantee reliable outputs.
+- Original dataset: 9 reviews
+- Expanded dataset: 15 reviews
+- Zero-shot accuracy: 100%
+- Few-shot accuracy: 100%
+- Final experiment API errors: 0
 
-What I need to improve:
+## Mock interview scores
 
-Connecting prompt engineering with Python implementation.
+- Conceptual assessment: 7.7/10
+- Final project interview question: 7.5/10
 
-Distinguishing grounding from output formatting.
+## What I need to revise
 
-Using evaluation metrics to measure prompt performance.
-
-Providing complete and technically precise interview answers.
-
-Practical prompt design exercise: 7.5/10
-
-Final assessment score: 7.7/10
-
-Conceptual lesson status: Completed
-
-Coding implementation: Pending
+- Higher-order functions
+- Dictionary and list operations
+- Precision, recall, and F1-score
+- Experimental design and evaluation limitations
+- API retry mechanisms
+- Technical interview articulation
