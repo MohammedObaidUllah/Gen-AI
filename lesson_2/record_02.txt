@@ -1,8 +1,0 @@
-    Day: 16-11-2026
-    Topics learned: functions, exceptions handling, HTTP methods (GET, POST)
-    What I understood: GET is used to retreive data from the server, while POST is used to submit data to the server, 
-    i also learned that in the case of AI chatbot POST is used to send the user input/promt as well receive the models output
-    what i understood is incase of requests POST works for both retreiving and sending
-    Coding exercises completed: 4/4
-    Mock interview score: 6.5/10
-    What I need to revise: i need to understand requests, response in more detail and also keep working on my communication skills
